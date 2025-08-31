@@ -1,0 +1,1 @@
+# AICommitMessage Releases\n\nThis repository contains distribution releases for AICommitMessage.\n\n## Download\n\nCheck the [Releases page](https://github.com/aicommitmessage/aicommitmessage-releases/releases) for the latest DMG downloads.
